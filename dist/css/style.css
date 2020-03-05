@@ -298,6 +298,7 @@ body {
   padding: 1.5rem 3rem;
   transition: all 0.3s;
   border-right: 1px solid #fff;
+
   text-decoration: none;
 }
 .results__link:hover,
@@ -305,10 +306,12 @@ body {
   background-color: #f9f5f3;
   transform: translateY(-2px);
 }
+
 .results__link--active,
 .likes__link--active {
   background-color: #f9f5f3;
 }
+
 .results__fig,
 .likes__fig {
   flex: 0 0 5.5rem;
