@@ -298,7 +298,6 @@ body {
   padding: 1.5rem 3rem;
   transition: all 0.3s;
   border-right: 1px solid #fff;
-
   text-decoration: none;
 }
 .results__link:hover,
@@ -571,7 +570,7 @@ body {
   font-size: 1.2rem;
   text-align: center;
   border: none;
-  width: 3.7rem;
+  width: 5.7rem;
   border-radius: 3px;
 }
 .shopping__count input:focus {
